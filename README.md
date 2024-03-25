@@ -6,7 +6,13 @@ See associated Medium article [here]().
 
 - Example video: [https://www.youtube.com/watch?v=zduSFxRajkE](https://www.youtube.com/watch?v=zduSFxRajkE)
 
-- [Resulting blog post]()
+<img src="video_karpathy.jpg" width=500>
 
-- Code is in the [main notebook]().
+
+- [Resulting blog post](https://html-preview.github.io/?url=https://github.com/Yannael/video2blogpost/blob/main/final_output/blogpost.html)
+
+<img src="blogpost.jpg" width=500>
+
+
+- Code is in the [main notebook](Video2BlogPost.ipynb).
 
