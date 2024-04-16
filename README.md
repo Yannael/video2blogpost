@@ -15,6 +15,5 @@ See associated Medium article [here](https://medium.com/@ya-lb/using-claude-3-to
 
 <img src="blogpost.jpg" width=500>
 
-
 - Code is in the [main notebook](Video2BlogPost.ipynb).
 
